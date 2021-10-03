@@ -1,0 +1,3 @@
+C:\lr\SISprog10\SISprog10\Debug\SISprog10.vcxprojAssemblyReference.cache
+C:\lr\SISprog10\SISprog10\Debug\SISprog10.MyForm.resources
+C:\lr\SISprog10\SISprog10\Debug\SISprog10.vcxproj.GenerateResource.cache
