@@ -1,0 +1,9 @@
+﻿  cpW.cpp
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(20,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(20,98): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(20,98): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(27,10): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(27,100): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\yaaga\source\repos\cpW\cpW\cpW.cpp(27,100): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  cpW.vcxproj -> C:\Users\yaaga\source\repos\cpW\Debug\cpW.exe
