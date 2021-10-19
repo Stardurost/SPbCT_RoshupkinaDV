@@ -1,0 +1,5 @@
+﻿  cpC.cpp
+C:\Users\yaaga\source\repos\cpC\cpC\cpC.cpp(17,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yaaga\source\repos\cpC\cpC\cpC.cpp(23,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  cpC.vcxproj -> C:\Users\yaaga\source\repos\cpC\Debug\cpC.exe
