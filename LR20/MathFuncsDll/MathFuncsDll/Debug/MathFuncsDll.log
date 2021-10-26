@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathFuncsDll.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\lr\MathFuncsDll\Debug\MathFuncsDll.exe при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\lr\MathFuncsDll\Debug\MathFuncsDll.lib и объект C:\lr\MathFuncsDll\Debug\MathFuncsDll.exp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\lr\MathFuncsDll\Debug\MathFuncsDll.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
