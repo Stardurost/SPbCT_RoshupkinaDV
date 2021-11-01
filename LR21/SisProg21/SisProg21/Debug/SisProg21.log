@@ -1,0 +1,6 @@
+﻿  SisProg21.cpp
+C:\Users\yaaga\source\repos\SisProg21\SisProg21\SisProg21.cpp(33,23): warning C4474: "sprintf_s" : для строки формата передано слишком много аргументов
+C:\Users\yaaga\source\repos\SisProg21\SisProg21\SisProg21.cpp(33,23): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 3
+C:\Users\yaaga\source\repos\SisProg21\SisProg21\SisProg21.cpp(36,35): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SisProg21.vcxproj -> C:\Users\yaaga\source\repos\SisProg21\Debug\SisProg21.exe
