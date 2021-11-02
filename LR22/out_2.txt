@@ -1,0 +1,10 @@
+var = 1
+Var increment: 2
+
+Parent process:
+var before = 2
+var after = 5
+
+Child process:
+var before = 2
+var after = 7
