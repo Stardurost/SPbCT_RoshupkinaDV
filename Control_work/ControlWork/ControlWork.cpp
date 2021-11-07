@@ -26,28 +26,31 @@ private:
 
 
 public:
-	Schedule() { 														// присвоение значению начала и конца пустой ссылки 
+	Schedule() { 											// присвоение значению начала и конца пустой ссылки 
 		First = Last = NULL;
 	};
 
-	~Schedule() {														// деструктор
+	~Schedule() {											// деструктор
 		while (First) {
 			Last = First->next;
 			delete First;
 			First = Last;
 		}
 	};
-
-	bool ExistTable();													// проверка на наличие записи  	
-	bool CheckNote(int);  												// проверка существования записи в этот день и времени
+	
+	void Add(int, string, int, int);   								// добавление записи о приеме
+	void Delete(int, string, int, int);  								// удаление записи о приеме
+	
 
 	void ReadFile(ifstream&, Schedule&); 								// вывод информации из файла
-	void SaveFile(ofstream&); 											// сохранение информации в файл
+	void SaveFile(ofstream&); 									// сохранение информации в файл
 
-	void ShowDay();   													// вывод дня из расписания
+	void ShowDay();   										// вывод дня из расписания
 
-	void Add(int, string, int, int);   									// добавление записи о приеме
-	void Delete(int, string, int, int);  								// удаление записи о приеме
+
+	bool ExistTable();										// проверка на наличие записи  	
+	bool CheckNote(int);  										// проверка существования записи в этот день и времени
+
 
 };
 
