@@ -1,0 +1,4 @@
+﻿  ControlWork.cpp
+C:\Users\yaaga\source\repos\ControlWork\ControlWork\ControlWork.cpp(71): warning C4715: DayInWeek: значение возвращается не при всех путях выполнения
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ControlWork.vcxproj -> C:\Users\yaaga\source\repos\ControlWork\Debug\ControlWork.exe
