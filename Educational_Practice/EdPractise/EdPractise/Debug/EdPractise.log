@@ -1,5 +1,0 @@
-﻿  EdPractise.cpp
-C:\Users\yaaga\source\repos\EdPractise\EdPractise\EdPractise.cpp(74,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\yaaga\source\repos\EdPractise\EdPractise\EdPractise.cpp(75,11): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  EdPractise.vcxproj -> C:\Users\yaaga\source\repos\EdPractise\Debug\EdPractise.exe
