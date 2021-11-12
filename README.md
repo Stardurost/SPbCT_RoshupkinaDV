@@ -2,7 +2,9 @@
 ## laboratory works №9-22
 
 LR_10-LR_22
+
 Control_Work https://github.com/Stardurost/SPbCT_RoshupkinaDV/tree/main/Control_work
+
 Education_Practice
 --------------------
 
