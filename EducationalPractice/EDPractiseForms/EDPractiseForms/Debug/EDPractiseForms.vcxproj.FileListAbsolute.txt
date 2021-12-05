@@ -1,0 +1,4 @@
+C:\Users\yaaga\source\repos\EDPractiseForms\EDPractiseForms\Debug\EDPractiseForms.vcxprojAssemblyReference.cache
+C:\Users\yaaga\source\repos\EDPractiseForms\EDPractiseForms\Debug\EDPractiseForms.vcxproj.GenerateResource.cache
+C:\Users\yaaga\source\repos\EDPractiseForms\EDPractiseForms\Debug\EDPractiseForms.MyForm.resources
+C:\Users\yaaga\source\repos\EDPractiseForms\EDPractiseForms\Debug\EDPractiseForms.MyForm1.resources
